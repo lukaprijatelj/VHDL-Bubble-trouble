@@ -12,4 +12,4 @@ Program is made with some very common components like: RAM, Negative edge founde
 There are also components I programmed, components like: Player, Rope, Ball_Big, Ball_Medium, Ball_Small, Ball_XSmall and Game.
 
 ## Screenshot
-![alt tag](https://raw.githubusercontent.com/mrLukas/VHDL-Bubble-trouble/master/Game.jpg)
+![alt tag](https://raw.githubusercontent.com/mrLukas/VHDL-Bubble-trouble/master/Pictures/Game.jpg)
