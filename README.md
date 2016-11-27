@@ -10,3 +10,6 @@ I must warn you that this project was made for specific board. It works only wit
 ## Design components
 Program is made with some very common components like: RAM, Negative edge founder, Prescaler, Timer, Counter, PS2 Controller, Shift register, VSYNC and HSYNC (for VGA display).
 There are also components I programmed, components like: Player, Rope, Ball_Big, Ball_Medium, Ball_Small, Ball_XSmall and Game.
+
+## Screenshot
+![alt tag](https://raw.githubusercontent.com/mrLukas/VHDL-Bubble-trouble/master/Game.jpg)
