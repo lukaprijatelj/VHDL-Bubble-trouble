@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\lukap\Documents\ISE Design Suite Projects\SeminarskaNaloga\Game.ncd
+OUTFILE=C:\Users\lukap\Documents\ISE Design Suite Projects\SeminarskaNaloga\Game.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=C:\Users\lukap\Documents\ISE Design Suite Projects\SeminarskaNaloga
+LICENSE=WebPack
+USER_INFO=__0_0_0
