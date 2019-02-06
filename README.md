@@ -12,5 +12,8 @@ Program is made with some very common components like: RAM, Negative edge founde
 There are also components I programmed, components like: Player, Rope, Ball_Big, Ball_Medium, Ball_Small, Ball_XSmall and Game.
 
 ## Screenshot
-![alt tag](https://raw.githubusercontent.com/mrLukas/VHDL-Bubble-trouble/master/Pictures/nexys2.png)
 ![alt tag](https://raw.githubusercontent.com/mrLukas/VHDL-Bubble-trouble/master/Pictures/Game.jpg)
+
+## Digilent Nexys 2 Spartan 3E board
+![alt tag](https://raw.githubusercontent.com/mrLukas/VHDL-Bubble-trouble/master/Pictures/nexys2.png)
+
